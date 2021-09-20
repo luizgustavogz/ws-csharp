@@ -1,0 +1,13 @@
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.exe
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.deps.json
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.runtimeconfig.json
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.runtimeconfig.dev.json
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.dll
+C:\ws-vs2019\Exc1\Exc1\bin\Debug\netcoreapp3.1\Exc1.pdb
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.csprojAssemblyReference.cache
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.AssemblyInfoInputs.cache
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.AssemblyInfo.cs
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.dll
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.pdb
+C:\ws-vs2019\Exc1\Exc1\obj\Debug\netcoreapp3.1\Exc1.genruntimeconfig.cache

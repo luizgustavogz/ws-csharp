@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.exe
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.deps.json
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.runtimeconfig.json
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.runtimeconfig.dev.json
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.dll
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\bin\Debug\netcoreapp3.1\Course16_TryCatch.pdb
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.csprojAssemblyReference.cache
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.AssemblyInfo.cs
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.dll
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.pdb
+C:\ws-vs2019\Course16_TryCatch\Course16_TryCatch\obj\Debug\netcoreapp3.1\Course16_TryCatch.genruntimeconfig.cache

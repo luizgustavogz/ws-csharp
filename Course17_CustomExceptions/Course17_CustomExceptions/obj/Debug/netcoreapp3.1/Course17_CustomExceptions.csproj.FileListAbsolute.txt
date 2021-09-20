@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.exe
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.deps.json
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.runtimeconfig.json
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.runtimeconfig.dev.json
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.dll
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\bin\Debug\netcoreapp3.1\Course17_CustomExceptions.pdb
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.AssemblyInfo.cs
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.dll
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.pdb
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.genruntimeconfig.cache
+C:\ws-vs2019\Course17_CustomExceptions\Course17_CustomExceptions\obj\Debug\netcoreapp3.1\Course17_CustomExceptions.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.exe
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.deps.json
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.runtimeconfig.json
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.runtimeconfig.dev.json
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.dll
+C:\ws-vs2019\Course15_Herança\Course15_Herança\bin\Debug\netcoreapp3.1\Course15_Herança_Casting.pdb
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.csprojAssemblyReference.cache
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.AssemblyInfo.cs
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.dll
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.pdb
+C:\ws-vs2019\Course15_Herança\Course15_Herança\obj\Debug\netcoreapp3.1\Course15_Herança_Casting.genruntimeconfig.cache

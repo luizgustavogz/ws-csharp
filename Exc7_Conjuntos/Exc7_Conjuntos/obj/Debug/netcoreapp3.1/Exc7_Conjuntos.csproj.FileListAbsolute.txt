@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.exe
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.deps.json
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.runtimeconfig.json
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.dll
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\bin\Debug\netcoreapp3.1\Exc7_Conjuntos.pdb
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.dll
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.pdb
+C:\workspaces\ws-vs2019\Exc7_Conjuntos\Exc7_Conjuntos\obj\Debug\netcoreapp3.1\Exc7_Conjuntos.genruntimeconfig.cache

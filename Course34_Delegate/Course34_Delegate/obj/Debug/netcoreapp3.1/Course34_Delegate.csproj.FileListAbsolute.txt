@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.exe
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.deps.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.runtimeconfig.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.runtimeconfig.dev.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\bin\Debug\netcoreapp3.1\Course34_Delegate.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.AssemblyInfo.cs
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course34_Delegate\Course34_Delegate\obj\Debug\netcoreapp3.1\Course34_Delegate.genruntimeconfig.cache

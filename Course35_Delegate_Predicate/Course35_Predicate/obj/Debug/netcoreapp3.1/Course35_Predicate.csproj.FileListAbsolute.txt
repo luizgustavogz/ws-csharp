@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.exe
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.deps.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.runtimeconfig.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.runtimeconfig.dev.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\bin\Debug\netcoreapp3.1\Course35_Predicate.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.AssemblyInfo.cs
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course35_Predicate\Course35_Predicate\obj\Debug\netcoreapp3.1\Course35_Predicate.genruntimeconfig.cache

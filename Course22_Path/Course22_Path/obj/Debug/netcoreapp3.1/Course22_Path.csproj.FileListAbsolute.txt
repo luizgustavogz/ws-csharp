@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.exe
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.deps.json
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.runtimeconfig.json
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.runtimeconfig.dev.json
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.dll
+C:\ws-vs2019\Course22_Path\Course22_Path\bin\Debug\netcoreapp3.1\Course22_Path.pdb
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.AssemblyInfo.cs
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.dll
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.pdb
+C:\ws-vs2019\Course22_Path\Course22_Path\obj\Debug\netcoreapp3.1\Course22_Path.genruntimeconfig.cache

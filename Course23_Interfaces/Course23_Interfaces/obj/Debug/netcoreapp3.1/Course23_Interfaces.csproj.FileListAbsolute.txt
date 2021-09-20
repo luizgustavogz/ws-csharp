@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.exe
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.deps.json
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.runtimeconfig.json
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.runtimeconfig.dev.json
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.dll
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\bin\Debug\netcoreapp3.1\Course23_Interfaces.pdb
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.csprojAssemblyReference.cache
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.AssemblyInfo.cs
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.dll
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.pdb
+C:\ws-vs2019\Course23_Interfaces\Course23_Interfaces\obj\Debug\netcoreapp3.1\Course23_Interfaces.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Course8_Lists/1.0.0": {
+        "runtime": {
+          "Course8_Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course8_Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

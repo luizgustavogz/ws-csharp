@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.exe
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.deps.json
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.dll
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\bin\Debug\netcoreapp3.1\Course32_Extension_Methods.pdb
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.dll
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.pdb
+C:\workspaces\ws-vs2019\Course32_Extension_Methods\Course32_Extension_Methods\obj\Debug\netcoreapp3.1\Course32_Extension_Methods.genruntimeconfig.cache

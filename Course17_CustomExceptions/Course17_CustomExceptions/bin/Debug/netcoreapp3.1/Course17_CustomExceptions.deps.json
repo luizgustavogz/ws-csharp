@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Course17_CustomExceptions/1.0.0": {
+        "runtime": {
+          "Course17_CustomExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course17_CustomExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.exe
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.deps.json
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.dll
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\bin\Debug\netcoreapp3.1\Course28_Generics2.pdb
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.dll
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.pdb
+C:\workspaces\ws-vs2019\Course28_Generics2\Course28_Generics2\obj\Debug\netcoreapp3.1\Course28_Generics2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.exe
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.deps.json
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.runtimeconfig.json
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.runtimeconfig.dev.json
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.dll
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\bin\Debug\netcoreapp3.1\Course12.2_DateTimeOps.pdb
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.csprojAssemblyReference.cache
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.AssemblyInfo.cs
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.dll
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.pdb
+C:\ws-vs2019\Course12.2_DateTimeOps\Course12.2_DateTimeOps\obj\Debug\netcoreapp3.1\Course12.2_DateTimeOps.genruntimeconfig.cache

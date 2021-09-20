@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.exe
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.deps.json
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.runtimeconfig.json
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.runtimeconfig.dev.json
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.dll
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\bin\Debug\netcoreapp3.1\Course12.3_DateTimeKind.pdb
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.AssemblyInfo.cs
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.dll
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.pdb
+C:\ws-vs2019\Course12.3_DateTimeKind\Course12.3_DateTimeKind\obj\Debug\netcoreapp3.1\Course12.3_DateTimeKind.genruntimeconfig.cache

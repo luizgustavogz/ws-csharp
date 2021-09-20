@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.exe
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.deps.json
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.runtimeconfig.json
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.runtimeconfig.dev.json
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.dll
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\bin\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.pdb
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.AssemblyInfo.cs
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.dll
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.pdb
+C:\ws-vs2019\Course13.2_TimeSpanOps\Course13.2_TimeSpanOps\obj\Debug\netcoreapp3.1\Course13.2_TimeSpanOps.genruntimeconfig.cache

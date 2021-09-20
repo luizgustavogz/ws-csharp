@@ -1,0 +1,12 @@
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.exe
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.deps.json
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.dll
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\bin\Debug\netcoreapp3.1\Course33_Comparison.pdb
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.dll
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.pdb
+C:\workspaces\ws-vs2019\Course33_Comparison\Course33_Comparison\obj\Debug\netcoreapp3.1\Course33_Comparison.genruntimeconfig.cache

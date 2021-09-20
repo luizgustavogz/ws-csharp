@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.exe
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.deps.json
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.dll
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\bin\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.pdb
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.dll
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.pdb
+C:\workspaces\ws-vs2019\Course29_GetHashCode_Equals\Course29_GetHashCode_Equals\obj\Debug\netcoreapp3.1\Course29_GetHashCode_Equals.genruntimeconfig.cache

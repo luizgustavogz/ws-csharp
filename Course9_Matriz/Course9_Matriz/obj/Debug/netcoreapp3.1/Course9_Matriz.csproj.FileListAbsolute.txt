@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.exe
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.deps.json
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.runtimeconfig.json
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.runtimeconfig.dev.json
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.dll
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\bin\Debug\netcoreapp3.1\Course9_Matriz.pdb
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.AssemblyInfo.cs
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.dll
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.pdb
+C:\ws-vs2019\Course9_Matriz\Course9_Matriz\obj\Debug\netcoreapp3.1\Course9_Matriz.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.csprojAssemblyReference.cache
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.AssemblyInfo.cs
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.exe
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.deps.json
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.runtimeconfig.json
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.runtimeconfig.dev.json
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.dll
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\bin\Debug\netcoreapp3.1\Course20_StreamWriter.pdb
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.dll
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.pdb
+C:\ws-vs2019\Course20_StreamWriter\Course20_StreamWriter\obj\Debug\netcoreapp3.1\Course20_StreamWriter.genruntimeconfig.cache

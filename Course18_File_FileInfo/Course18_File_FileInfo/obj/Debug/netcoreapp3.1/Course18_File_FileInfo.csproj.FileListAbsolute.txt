@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.exe
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.deps.json
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.runtimeconfig.json
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.runtimeconfig.dev.json
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.dll
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\bin\Debug\netcoreapp3.1\Course18_File_FileInfo.pdb
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.csprojAssemblyReference.cache
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.AssemblyInfo.cs
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.dll
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.pdb
+C:\ws-vs2019\Course18_File_FileInfo\Course18_File_FileInfo\obj\Debug\netcoreapp3.1\Course18_File_FileInfo.genruntimeconfig.cache

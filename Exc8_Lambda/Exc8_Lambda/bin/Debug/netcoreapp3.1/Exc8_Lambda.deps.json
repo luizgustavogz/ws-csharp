@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exc8_Lambda/1.0.0": {
+        "runtime": {
+          "Exc8_Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exc8_Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

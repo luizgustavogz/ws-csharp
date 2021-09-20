@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.exe
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.deps.json
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.runtimeconfig.json
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.runtimeconfig.dev.json
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.dll
+C:\ws-vs2019\Course14_Enums\Course14_Enums\bin\Debug\netcoreapp3.1\Course14_Enums.pdb
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.csprojAssemblyReference.cache
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.AssemblyInfo.cs
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.dll
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.pdb
+C:\ws-vs2019\Course14_Enums\Course14_Enums\obj\Debug\netcoreapp3.1\Course14_Enums.genruntimeconfig.cache

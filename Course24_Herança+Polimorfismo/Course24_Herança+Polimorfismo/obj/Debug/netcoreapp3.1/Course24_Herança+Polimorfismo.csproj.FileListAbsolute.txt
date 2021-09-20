@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.exe
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.deps.json
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.dll
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\bin\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.pdb
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.dll
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.pdb
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.genruntimeconfig.cache
+C:\workspaces\ws-vs2019\Course24_Herança+Polimorfismo\Course24_Herança+Polimorfismo\obj\Debug\netcoreapp3.1\Course24_Herança+Polimorfismo.csprojAssemblyReference.cache

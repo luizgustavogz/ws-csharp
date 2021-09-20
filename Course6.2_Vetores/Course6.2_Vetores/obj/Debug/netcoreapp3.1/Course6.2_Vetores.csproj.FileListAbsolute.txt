@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.exe
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.deps.json
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.runtimeconfig.json
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.runtimeconfig.dev.json
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.dll
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\bin\Debug\netcoreapp3.1\Course6.2_Vetores.pdb
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.csprojAssemblyReference.cache
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.AssemblyInfo.cs
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.dll
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.pdb
+C:\ws-vs2019\Course6.2_Vetores\Course6.2_Vetores\obj\Debug\netcoreapp3.1\Course6.2_Vetores.genruntimeconfig.cache

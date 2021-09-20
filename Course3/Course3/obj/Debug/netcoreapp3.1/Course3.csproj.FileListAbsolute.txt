@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.exe
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.deps.json
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.runtimeconfig.json
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.runtimeconfig.dev.json
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.dll
+C:\ws-vs2019\Course3\Course3\bin\Debug\netcoreapp3.1\Course3.pdb
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.AssemblyInfo.cs
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.dll
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.pdb
+C:\ws-vs2019\Course3\Course3\obj\Debug\netcoreapp3.1\Course3.genruntimeconfig.cache

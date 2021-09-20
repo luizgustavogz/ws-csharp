@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.exe
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.deps.json
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.runtimeconfig.json
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.runtimeconfig.dev.json
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.dll
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\bin\Debug\netcoreapp3.1\Course5_Nullable.pdb
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.csprojAssemblyReference.cache
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.AssemblyInfo.cs
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.dll
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.pdb
+C:\ws-vs2019\Course5_Nullable\Course5_Nullable\obj\Debug\netcoreapp3.1\Course5_Nullable.genruntimeconfig.cache

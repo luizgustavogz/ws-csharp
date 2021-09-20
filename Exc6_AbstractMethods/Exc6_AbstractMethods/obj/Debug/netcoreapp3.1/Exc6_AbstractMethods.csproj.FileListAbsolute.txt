@@ -1,0 +1,13 @@
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.exe
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.deps.json
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.runtimeconfig.json
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.runtimeconfig.dev.json
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.dll
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\bin\Debug\netcoreapp3.1\Exc6_AbstractMethods.pdb
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.csprojAssemblyReference.cache
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.AssemblyInfoInputs.cache
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.AssemblyInfo.cs
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.dll
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.pdb
+C:\ws-vs2019\Exc6_AbstractMethods\Exc6_AbstractMethods\obj\Debug\netcoreapp3.1\Exc6_AbstractMethods.genruntimeconfig.cache

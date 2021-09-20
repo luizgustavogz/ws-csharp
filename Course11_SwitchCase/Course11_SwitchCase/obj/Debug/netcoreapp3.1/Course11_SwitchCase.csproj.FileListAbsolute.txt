@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.exe
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.deps.json
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.runtimeconfig.json
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.runtimeconfig.dev.json
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.dll
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\bin\Debug\netcoreapp3.1\Course11_SwitchCase.pdb
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.AssemblyInfo.cs
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.dll
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.pdb
+C:\Users\User\source\repos\Course11_SwitchCase\Course11_SwitchCase\obj\Debug\netcoreapp3.1\Course11_SwitchCase.genruntimeconfig.cache

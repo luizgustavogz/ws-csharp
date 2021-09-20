@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Course13_TimeSpan/1.0.0": {
+        "runtime": {
+          "Course13_TimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course13_TimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

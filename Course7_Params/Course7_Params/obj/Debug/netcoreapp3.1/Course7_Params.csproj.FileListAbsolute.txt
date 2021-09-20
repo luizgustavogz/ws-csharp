@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.exe
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.deps.json
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.runtimeconfig.json
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.runtimeconfig.dev.json
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.dll
+C:\ws-vs2019\Course7_Params\Course7_Params\bin\Debug\netcoreapp3.1\Course7_Params.pdb
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.csprojAssemblyReference.cache
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.AssemblyInfo.cs
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.dll
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.pdb
+C:\ws-vs2019\Course7_Params\Course7_Params\obj\Debug\netcoreapp3.1\Course7_Params.genruntimeconfig.cache

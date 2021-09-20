@@ -1,0 +1,13 @@
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.exe
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.deps.json
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.runtimeconfig.json
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.runtimeconfig.dev.json
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.dll
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\bin\Debug\netcoreapp3.1\Course12_DateTime.pdb
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.csprojAssemblyReference.cache
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.AssemblyInfo.cs
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.dll
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.pdb
+C:\ws-vs2019\Course12_DateTime\Course12_DateTime\obj\Debug\netcoreapp3.1\Course12_DateTime.genruntimeconfig.cache

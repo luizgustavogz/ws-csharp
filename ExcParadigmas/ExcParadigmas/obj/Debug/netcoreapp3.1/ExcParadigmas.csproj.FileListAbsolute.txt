@@ -1,0 +1,13 @@
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.exe
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.deps.json
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.runtimeconfig.json
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.runtimeconfig.dev.json
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.dll
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\bin\Debug\netcoreapp3.1\ExcParadigmas.pdb
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.csprojAssemblyReference.cache
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.AssemblyInfoInputs.cache
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.AssemblyInfo.cs
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.dll
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.pdb
+C:\ws-vs2019\ExcParadigmas\ExcParadigmas\obj\Debug\netcoreapp3.1\ExcParadigmas.genruntimeconfig.cache

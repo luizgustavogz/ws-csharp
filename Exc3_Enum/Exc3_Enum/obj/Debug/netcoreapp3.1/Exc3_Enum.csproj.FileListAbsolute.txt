@@ -1,0 +1,13 @@
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.exe
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.deps.json
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.runtimeconfig.json
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.runtimeconfig.dev.json
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.dll
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\bin\Debug\netcoreapp3.1\Exc3_Enum.pdb
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.csprojAssemblyReference.cache
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.AssemblyInfoInputs.cache
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.AssemblyInfo.cs
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.dll
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.pdb
+C:\ws-vs2019\Exc3_Enum\Exc3_Enum\obj\Debug\netcoreapp3.1\Exc3_Enum.genruntimeconfig.cache

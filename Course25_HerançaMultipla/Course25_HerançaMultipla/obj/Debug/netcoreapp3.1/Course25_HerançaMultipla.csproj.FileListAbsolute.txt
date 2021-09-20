@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.exe
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.deps.json
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.dll
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\bin\Debug\netcoreapp3.1\Course25_HerançaMultipla.pdb
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.dll
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.pdb
+C:\workspaces\ws-vs2019\Course25_HerançaMultipla\Course25_HerançaMultipla\obj\Debug\netcoreapp3.1\Course25_HerançaMultipla.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.exe
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.deps.json
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.runtimeconfig.json
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.runtimeconfig.dev.json
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.dll
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\bin\Debug\netcoreapp3.1\Exc5_Polimorfismo.pdb
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.csprojAssemblyReference.cache
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.AssemblyInfoInputs.cache
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.AssemblyInfo.cs
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.dll
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.pdb
+C:\ws-vs2019\Exc5_Polimorfismo\Exc5_Polimorfismo\obj\Debug\netcoreapp3.1\Exc5_Polimorfismo.genruntimeconfig.cache

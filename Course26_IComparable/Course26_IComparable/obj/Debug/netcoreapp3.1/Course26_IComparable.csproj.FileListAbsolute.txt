@@ -1,0 +1,13 @@
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.exe
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.deps.json
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.dll
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\bin\Debug\netcoreapp3.1\Course26_IComparable.pdb
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.csprojAssemblyReference.cache
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.dll
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.pdb
+C:\workspaces\ws-vs2019\Course26_IComparable\Course26_IComparable\obj\Debug\netcoreapp3.1\Course26_IComparable.genruntimeconfig.cache

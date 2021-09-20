@@ -1,0 +1,13 @@
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.exe
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.deps.json
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.runtimeconfig.json
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.runtimeconfig.dev.json
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.dll
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\bin\Debug\netcoreapp3.1\Exc4_StringBuilder.pdb
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.csprojAssemblyReference.cache
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.AssemblyInfoInputs.cache
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.AssemblyInfo.cs
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.dll
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.pdb
+C:\ws-vs2019\Exc4_StringBuilder\Exc4_StringBuilder\obj\Debug\netcoreapp3.1\Exc4_StringBuilder.genruntimeconfig.cache

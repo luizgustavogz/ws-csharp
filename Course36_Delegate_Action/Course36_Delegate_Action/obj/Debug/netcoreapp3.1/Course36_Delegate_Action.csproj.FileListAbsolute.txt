@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.exe
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.deps.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.runtimeconfig.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.runtimeconfig.dev.json
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\bin\Debug\netcoreapp3.1\Course36_Delegate_Action.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.AssemblyInfo.cs
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.dll
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.pdb
+C:\Users\User\OneDrive\workspaces\ws-vs2019\Course36_Delegate_Action\Course36_Delegate_Action\obj\Debug\netcoreapp3.1\Course36_Delegate_Action.genruntimeconfig.cache

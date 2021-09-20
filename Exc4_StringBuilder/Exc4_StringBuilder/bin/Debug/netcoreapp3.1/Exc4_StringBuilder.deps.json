@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exc4_StringBuilder/1.0.0": {
+        "runtime": {
+          "Exc4_StringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exc4_StringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

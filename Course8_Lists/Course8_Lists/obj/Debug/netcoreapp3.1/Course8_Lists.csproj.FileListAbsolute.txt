@@ -1,0 +1,12 @@
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.exe
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.deps.json
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.runtimeconfig.json
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.runtimeconfig.dev.json
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.dll
+C:\ws-vs2019\Course8_Lists\Course8_Lists\bin\Debug\netcoreapp3.1\Course8_Lists.pdb
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.AssemblyInfoInputs.cache
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.AssemblyInfo.cs
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.dll
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.pdb
+C:\ws-vs2019\Course8_Lists\Course8_Lists\obj\Debug\netcoreapp3.1\Course8_Lists.genruntimeconfig.cache
