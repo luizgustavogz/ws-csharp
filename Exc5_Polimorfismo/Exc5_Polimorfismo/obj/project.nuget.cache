@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "axdm4jjYgfuAZurLJUGkfl6Rlyh/Becd26BXLN6tv8u4DzMNtYF60Mj/yZ8419kQt+GMHJq4VAcLXCL4IGbtHA==",
+  "dgSpecHash": "VxO5iAgTX5fC9TgiE0BCv4TylsptDpH3lqk+UDDy7310ehDzPfrIdrjppOZVRzLg4vDLfGRB1lK+XHn7wnbzDA==",
   "success": true,
-  "projectFilePath": "C:\\ws-vs2019\\Exc5_Polimorfismo\\Exc5_Polimorfismo\\Exc5_Polimorfismo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bomba\\OneDrive\\workspaces\\pessoal-workspace-vs2019\\Exc5_Polimorfismo\\Exc5_Polimorfismo\\Exc5_Polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bomba\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

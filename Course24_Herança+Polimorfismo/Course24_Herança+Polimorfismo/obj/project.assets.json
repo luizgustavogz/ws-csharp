@@ -8,25 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bomba\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspaces\\ws-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\bomba\\OneDrive\\workspaces\\pessoal-workspace-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo.csproj",
       "projectName": "Course24_Herança+Polimorfismo",
-      "projectPath": "C:\\workspaces\\ws-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\workspaces\\ws-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\obj\\",
+      "projectPath": "C:\\Users\\bomba\\OneDrive\\workspaces\\pessoal-workspace-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo.csproj",
+      "packagesPath": "C:\\Users\\bomba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bomba\\OneDrive\\workspaces\\pessoal-workspace-vs2019\\Course24_Herança+Polimorfismo\\Course24_Herança+Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

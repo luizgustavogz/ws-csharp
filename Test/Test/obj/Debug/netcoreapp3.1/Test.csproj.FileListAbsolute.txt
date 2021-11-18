@@ -24,3 +24,17 @@ C:\Users\User\OneDrive\workspaces\ws-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Te
 C:\Users\User\OneDrive\workspaces\ws-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
 C:\Users\User\OneDrive\workspaces\ws-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
 C:\Users\User\OneDrive\workspaces\ws-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\bomba\OneDrive\workspaces\pessoal-workspace-vs2019\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
